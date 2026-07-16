@@ -1,67 +1,74 @@
-# Привет! Я Исхак Мурзаев 👋
+# Hi! I'm Iskhak Murzaev 👋
 
-### 🚀 Я бэкенд разработчик!
+### 🚀 Python Backend Developer
 
-## 🐍 Обо мне
+## 🐍 About Me
 
-Мой выбор пал на бэкенд из-за любви к логике, системной архитектуре и решению сложных головоломок. Меня мотивирует процесс превращения комплексных бизнес-задач в **чистый, структурированный и автоматизированный код**.
+I primarily work with Python and focus on backend development and automation.
 
-Особое внимание я уделяю:
-* **Эффективности:** Создание производительных алгоритмов для обработки больших объемов данных.
-* **Надёжности:** Обеспечение целостности и высокой скорости передачи данных.
-* **Архитектуре:** Построение систем, готовых к **масштабированию и высоким нагрузкам**.
+I enjoy solving real problems, building APIs, automating routine tasks, and learning new technologies through practice. Most of my experience comes from personal projects and automation tools that I use in my daily work.
 
-Я стремлюсь стать ценным и надёжным членом команды, углубляя свои знания в Python-фреймворках и работе с PostgreSQL.
+I'm particularly interested in:
 
----
+- **Backend development** with FastAPI, Django, and Flask
+- **API design and integration**
+- **Database design** with PostgreSQL and SQLAlchemy
+- **Automation** using Python
+- Writing clean, maintainable, and reliable code
 
-## 🛠️ Технологии и Инструменты
-
-Я владею следующими инструментами и технологиями, которые готов подтвердить на собеседовании и в проектах:
-
-### Языки программирования
-* **Python** (Основной)
-* SQL
-
-### Фреймворки и Библиотеки (Backend)
-* **Django** / **Django REST Framework (DRF)**
-* **FastAPI** / **Flask**
-* SQLAlchemy / Alembic (ORM, миграции)
-* Scrapy (Парсинг данных)
-* Djoser (Авторизация)
-
-### Базы данных (СУБД)
-* **PostgreSQL** (Предпочтительная)
-* SQLite
-* SQL
-
-### Инфраструктура и Инструменты
-* **Docker** / Docker Compose (Контейнеризация)
-* Nginx / Gunicorn / Uvicorn (Деплой и веб-серверы)
-* Git / GitHub
-* Linux
+I'm always looking to improve my skills and contribute to real-world projects while continuing to grow as a backend developer.
 
 ---
 
-## 💼 Статус и Контакты
+## 🛠️ Tech Stack
 
-| Статус занятости | Контактная информация |
-| :--- | :--- |
-| **Активно ищу работу** в качестве **Backend Developer** | **Email:** murzaev48@gmail.com |
-| **Открыт** для предложений Full-time, удаленно/офис | **Telegram:**  https://t.me/clone1711 |
+### Languages
+
+- **Python**
+- SQL
+
+### Backend
+
+- **FastAPI**
+- **Django**
+- Django REST Framework (DRF)
+- Flask
+- SQLAlchemy
+- Alembic
+- Djoser
+
+### Databases
+
+- **PostgreSQL**
+- SQLite
+
+### Tools
+
+- Docker
+- Docker Compose
+- Git / GitHub
+- Linux
+- Nginx
+- Gunicorn
+- Uvicorn
+
+### Other
+
+- Celery
+- Redis
+- Scrapy
+- Pandas
 
 ---
-<!--
-**IskhakM/IskhakM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 💼 Currently
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔎 Open to **Backend Developer** opportunities
+- 🌍 Open to remote and on-site positions
+
+---
+
+## 📫 Contact
+
+- **Email:** murzaev48@gmail.com
+- **Telegram:** https://t.me/clone1711
