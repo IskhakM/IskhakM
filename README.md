@@ -1,22 +1,22 @@
 # Hi! I'm Iskhak Murzaev 👋
 
-### 🚀 Python Backend Developer
+### 🚀 Python Backend Developer | FastAPI • Django • PostgreSQL
 
 ## 🐍 About Me
 
-I primarily work with Python and focus on backend development and automation.
+I'm a Python backend developer focused on building APIs and automation tools.
 
-I enjoy solving real problems, building APIs, automating routine tasks, and learning new technologies through practice. Most of my experience comes from personal projects and automation tools that I use in my daily work.
+Most of my experience comes from personal projects and automating real business tasks. I enjoy solving practical problems, learning new technologies, and turning repetitive processes into simple and reliable software.
 
 I'm particularly interested in:
 
-- **Backend development** with FastAPI, Django, and Flask
-- **API design and integration**
-- **Database design** with PostgreSQL and SQLAlchemy
-- **Automation** using Python
+- Backend development with FastAPI, Django, and Flask
+- REST API design and integration
+- PostgreSQL and SQLAlchemy
+- Automation with Python
 - Writing clean, maintainable, and reliable code
 
-I'm always looking to improve my skills and contribute to real-world projects while continuing to grow as a backend developer.
+I'm continuously improving my backend development skills and always open to learning new technologies.
 
 ---
 
@@ -24,13 +24,13 @@ I'm always looking to improve my skills and contribute to real-world projects wh
 
 ### Languages
 
-- **Python**
+- Python
 - SQL
 
 ### Backend
 
-- **FastAPI**
-- **Django**
+- FastAPI
+- Django
 - Django REST Framework (DRF)
 - Flask
 - SQLAlchemy
@@ -39,7 +39,7 @@ I'm always looking to improve my skills and contribute to real-world projects wh
 
 ### Databases
 
-- **PostgreSQL**
+- PostgreSQL
 - SQLite
 
 ### Tools
@@ -61,10 +61,11 @@ I'm always looking to improve my skills and contribute to real-world projects wh
 
 ---
 
-## 💼 Currently
+## 💼 Open to Work
 
-- 🔎 Open to **Backend Developer** opportunities
-- 🌍 Open to remote and on-site positions
+- Backend Developer (Python)
+- Full-time
+- Remote / On-site
 
 ---
 
